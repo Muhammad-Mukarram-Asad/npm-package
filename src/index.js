@@ -1,1 +1,1 @@
-hello
+export * from "./components/requirements/Requirements";
