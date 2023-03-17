@@ -1,0 +1,11 @@
+What is the difference between context API and redux?
+
+The main difference between the Context API and Redux is that the Context API is built into React and is focused on providing a way to pass data  
+through the component tree without having to pass props down manually at every level. Redux, on the other hand, is an external library that provides  
+a centralized state management solution and is used for more complex applications that require a global state.  
+
+what is redux toolkit?
+
+Redux Toolkit is a new official library from the Redux team that is intended to make it easier to write applications with Redux.  
+It provides a set of tools and APIs that make it easier to write Redux logic, such as creating reducers, composing reducers, creating action creators,  
+and much more. It also includes several other features, such as support for middleware and data fetching.  
